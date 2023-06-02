@@ -1,83 +1,61 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
-<table>
-<tr>
-<td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
-</td>
-</tr>
-</table>
+# ![NeuroNation](/assents/Neuronation.png)
+# QA Tester Proyect: NeuroNation
+
+Welcome to the presentation of Neuronation's QA Tester project! Our goal is to ensure flawless functionalities, quality UX/UI and accessibility in the app. Let's get started!
+
+# Summaries
+In this opportunity we made three user stories for the types of tests, three for functionality, three for UX/UI and three for accessibility. To which we performed 4 test cases for each user story.
+
+### Functionality
+US1: As a user I want to be able to register and log in to save my progress.
+
+US2: As a user, I would like an assessment of strengths/weaknesses in order to have a personalized training plan.
+
+US3: As a user I want there to be a module with various body and mental relaxation exercises to perform when I need them.
+
+![](/assents/functionality_summary.png)
+
+### UX/UI
+US1: As a user of the NeuroNation application, I want to have a profile so that I can customize my account.
+
+US2: As a User of the NeuroNation application I want to be able to use a NavBar to access different sections.
+
+US3: As a Neuronation user I want to be able to use gestures on my cell phone to navigate the application.
+
+![](/assents/ux_ui_summary.png)
+
+### Accessibility
+US1: As a user, I want to be able to change the special needs training to suit my needs.
+
+US2: As a user I want to set reminders so that I don't forget to do the exercises.
+
+US3: As a user I want to configure the language and comparison group to use other languages and to use another age range.
+
+![](/assents/accessibility.png)
 
 
-## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+# Charts
 
+### Dona Chart
 
-## Site
+In this chart we can see the total result of our tests and bugs in the app. Despite an exhaustive search, we found no bugs in the application.
 
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
+![](/assents/chart_dona.png)
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+### Tester Performance
+In particular I am a hard worker, I don't mind doing extra work if it is necessary to meet the company's deadlines. And my performance is very high.
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+![](/assents/testsxtester.png)
 
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+### Cumulative Flow Chart
 
+Here we can see how long it took us to organize the work and perform the test cases.
 
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+![](/assents/diagramadeflujoacumulado.png)
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+# Technologies Used
+ Excel - PowerPoint - Jira - Zephyr Squad
 
+# Conclusions
 
-
-
-## [Usage](https://iharsh234.github.io/WebApp/) 
-
-### Development
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
-
-
-## Built with 
-
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
-
-
-## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
-
-## Team
-
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
----|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
-
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
-
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
-
+We were able to develop and put into practice essential skills for the QA Tester role such as teamwork, communication, organization, among others, in addition to the techniques of 
